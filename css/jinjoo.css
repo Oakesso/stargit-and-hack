@@ -19,6 +19,11 @@ nav {
   ul {
     list-style: none;
   }
+
+li {
+    padding: 5px;
+    display: flex;
+  }
   
   .why-ironhack {
     text-align: left;
