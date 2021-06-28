@@ -1,0 +1,63 @@
+body { 
+    background-color: white;
+    width: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    border: 5px solid black;
+    height: 800px;
+}
+
+header {
+    text-align: center;
+    height: 20px;
+    padding-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    /* width: 800px; */
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;  
+    height: 50px;
+}
+
+.images {
+    /* display: block; */
+    text-align: center;
+    padding-bottom: 5px;
+    /* border-radius: 12px; */
+}
+
+.im1 {
+    /* adjuted image 1 size */
+    width: 250px;
+    /* space on right */
+    margin-right: 10px;
+    /* image 1 round corners */
+    border-radius: 12.5px;    
+}
+
+.im2 { 
+    /* adjuted image 2 size */
+    width: 245px;
+    /* space on left */
+    margin-left: 10px;
+    /* image 2 round corners */
+    border-radius: 12.5px;
+}
+
+section {
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 550px;  
+    /* lines under and above text */
+    border-top: 1px solid black;
+    /* space between last text line and grey line */
+    padding-bottom: 10px;
+}
+
+ul { 
+    list-style-type: "- ";
+    font-weight: bold;
+}
